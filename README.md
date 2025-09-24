@@ -1,4 +1,4 @@
-#  FastAPI, Redis, PostgreSQL e LangChain (Completo)
+#  FastAPI, Redis, PostgreSQL e LangChain 
 
 o Projeto demonstra um backend escalável em **Python (FastAPI)** com:
 - APIs RESTful
